@@ -1,0 +1,449 @@
+{
+  "meta": {
+    "home": {
+      "title": "Naima Studio di Bellezza | Beauty studio in the Messina area",
+      "description": "Naima Natoli's studio in the Messina area. Manicures, pedicures, lashes, bridal make-up, laser hair removal and head spa. Book your appointment."
+    },
+    "treatments": {
+      "title": "Beauty treatments in Messina | Naima Studio di Bellezza",
+      "description": "Nails, lashes, make-up, laser hair removal and head spa with Naima Natoli. Precise care in the Messina area, by appointment."
+    },
+    "nails": {
+      "title": "Manicure and pedicure in Messina | Naima Studio di Bellezza",
+      "description": "Manicures, pedicures and nail care in the Messina area. Precise work, agreed with you before it begins."
+    },
+    "lashes": {
+      "title": "Lash lift and extensions in Messina | Naima Studio di Bellezza",
+      "description": "Lash lifts and lash extensions with Naima Natoli. A considered look, in the Messina area."
+    },
+    "laser": {
+      "title": "Laser hair removal in Messina | Naima Studio di Bellezza",
+      "description": "Laser hair removal in the Messina area. A course of sessions explained clearly, with no guarantee of permanent removal."
+    },
+    "headSpa": {
+      "title": "Head spa in Messina | Naima Studio di Bellezza",
+      "description": "Head spa in the Messina area: time for the scalp, a pause and a moment of care. It is not a medical treatment."
+    },
+    "bridal": {
+      "title": "Bridal make-up in Messina | Naima Studio di Bellezza",
+      "description": "Bridal make-up, event make-up and photo shoots with Naima Natoli, make-up artist in the Messina area."
+    },
+    "portfolio": {
+      "title": "Portfolio | Naima Studio di Bellezza",
+      "description": "Naima Natoli's work, published only when she has permission. Nails, lashes, make-up, bridal and head spa."
+    },
+    "about": {
+      "title": "Naima Natoli, beauty therapist | Naima Studio di Bellezza",
+      "description": "Naima Natoli, a beauty therapist with fifteen years of practice. She opened in Switzerland in 2016 and moved the studio to Sicily in 2024."
+    },
+    "booking": {
+      "title": "Book an appointment | Naima Studio di Bellezza",
+      "description": "Book a treatment with Naima Natoli. Online booking will connect to her calendar. Until then, write to her on WhatsApp."
+    },
+    "contact": {
+      "title": "Contact | Naima Studio di Bellezza",
+      "description": "Write to Naima Natoli on WhatsApp, by phone or by email. Via Camillo Benso Conte di Cavour 4, Messina area."
+    },
+    "privacy": {
+      "title": "Privacy policy | Naima Studio di Bellezza",
+      "description": "Draft privacy notice for Naima Studio di Bellezza. To be reviewed before publication."
+    },
+    "cookies": {
+      "title": "Cookie policy | Naima Studio di Bellezza",
+      "description": "Draft cookie policy for Naima Studio di Bellezza. The site does not set advertising cookies."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "treatments": "Treatments",
+    "bridal": "Bridal make-up",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "book": "Book now",
+    "menu": "Menu",
+    "close": "Close",
+    "languages": "Language",
+    "primary": "Primary"
+  },
+  "common": {
+    "skip": "Skip to content",
+    "book": "Book your appointment",
+    "bookShort": "Book now",
+    "whatsapp": "Message us on WhatsApp",
+    "discover": "See the treatments",
+    "read": "Discover",
+    "priceNote": "Duration and price are agreed when you book. They are not published yet.",
+    "appointment": "By appointment",
+    "draft": "Draft, to be reviewed before publication. This is not yet the final notice.",
+    "instagramStudio": "Studio Instagram",
+    "instagramMakeup": "Make-up Instagram",
+    "directions": "Open the street on Google Maps",
+    "call": "Call",
+    "email": "Send an email",
+    "partner": "Visit La Truccheria Cherie",
+    "back": "All treatments",
+    "closeDialog": "Close",
+    "open": "Open"
+  },
+  "home": {
+    "heroEyebrow": "Naima Studio di Bellezza",
+    "heroTitle": "Beauty is in the details.",
+    "heroSubtitle": "Beauty treatments, make-up and quiet moments of care, with the attention, precision and experience you deserve.",
+    "heroArea": "Messina area · Sicily",
+    "presentEyebrow": "The studio",
+    "presentTitle": "A moment that is yours.",
+    "presentLead": "Naima Studio di Bellezza is Naima Natoli's studio in the Messina area. A deliberately small place: a precise hand, products chosen with care, and time enough to be listened to.",
+    "presentBody": "It is not distant luxury. It is an hour done well. Working women, mothers and teenage girls come here. They want a considered result, and a moment that still feels human, even when the treatment itself is quick.",
+    "pillars": {
+      "listen": {
+        "title": "Listening",
+        "text": "We start from what you want, not from a protocol that is the same for everyone."
+      },
+      "precision": {
+        "title": "Precision",
+        "text": "The detail shows up close: the line, the skin, the nail, the timing."
+      },
+      "quality": {
+        "title": "Quality",
+        "text": "Selected products, and a hand that keeps learning."
+      },
+      "wellbeing": {
+        "title": "Ease",
+        "text": "Even a short treatment can be a calm hour."
+      }
+    },
+    "servicesEyebrow": "Treatments",
+    "servicesTitle": "Five ways to be looked after.",
+    "servicesIntro": "Choose where to begin. Each page describes the treatment without filling the gaps: no invented prices, no promises Naima has not made.",
+    "expertiseEyebrow": "Experience",
+    "expertiseFigure": "15",
+    "expertiseUnit": "years of practice",
+    "expertiseTitle": "Fifteen years, one standard: do it well.",
+    "expertiseBody": "Naima has worked in beauty therapy for about fifteen years. She opened her practice in Switzerland in 2016 and moved it to Sicily in 2024. The light changed. The way of working did not: be on time, look carefully, explain, and carry the treatment through with care.",
+    "expertiseBody2": "Training did not stop. Techniques change; attention stays. Experience here is not a number to display. It is the reason a treatment can be both precise and unrushed.",
+    "portfolioEyebrow": "Work",
+    "portfolioTitle": "The work, when it can be shown.",
+    "portfolioBody": "Photographs come only from Naima, and only when the person in them has agreed. Until those images are ready, her two Instagram accounts show the daily life of the studio and of the make-up.",
+    "headSpaEyebrow": "Head spa",
+    "headSpaTitle": "A pause for the head.",
+    "headSpaBody": "Head spa is time given to the scalp: cleansing, massage, a real pause. It is care, not therapy and not a medical act. It does not treat scalp conditions. It offers attention, a precise pair of hands, and an hour in which the head can rest.",
+    "headSpaLink": "Discover head spa",
+    "partnerEyebrow": "The cosmetics",
+    "partnerTitle": "La Truccheria Cherie",
+    "partnerBody": "For make-up, Naima works with La Truccheria Cherie, the Sicilian house of Orazio Tomarchio. A line conceived and made in Sicily, chosen so that the gesture, the quality of the product and a real tie to the island stay together.",
+    "reviewsTitle": "Notes",
+    "closingTitle": "Your next moment of beauty is waiting.",
+    "closingBody": "Write to Naima, or prepare your appointment. She answers herself."
+  },
+  "services": {
+    "indexEyebrow": "Treatments",
+    "indexTitle": "What you can book.",
+    "indexLead": "Five families of treatments, described without filling the blanks. When Naima confirms durations and prices, they will sit here, in the same list.",
+    "nails": {
+      "title": "Nails, hands and feet",
+      "summary": "Manicures, pedicures and nail care.",
+      "intro": "Hands and feet ask for the same attention as the face. The treatment is built around your nail, the time you have, and the result you want.",
+      "body": "Manicures, pedicures and nail treatments are part of Naima's work. The precise technique — shape, finish, product — is chosen in the room, with you. It is not listed here until the menu is settled with her.",
+      "offerings": {
+        "manicure": {
+          "title": "Manicure",
+          "text": "A clean, precise care of the hands. The proposal follows your nails and the occasion. There is no fixed protocol published in advance."
+        },
+        "pedicure": {
+          "title": "Pedicure",
+          "text": "The same standard, for the feet: look, care, leave an ordered result. The exact steps are agreed in the appointment."
+        },
+        "care": {
+          "title": "Nail treatments",
+          "text": "When a nail needs more than a manicure, Naima looks with you at what is suitable. No technique is promised unless it is one she actually performs."
+        }
+      }
+    },
+    "lashes": {
+      "title": "Lashes and the eye",
+      "summary": "Lash lift and lash extensions.",
+      "intro": "Two paths, both precise. The choice depends on your eye, your routine, and how you want to wake up the next day.",
+      "body": "Naima tells you before she begins, not afterwards. A lift and a set of extensions are not the same thing, and there is no single result that suits everyone.",
+      "offerings": {
+        "lamination": {
+          "title": "Lash lift, or lamination",
+          "text": "It works on your own lashes: lifting and defining them, without adding false ones. It suits you if you want a more open eye while staying with what you already have."
+        },
+        "extensions": {
+          "title": "Lash extensions",
+          "text": "They add length and density. The application is chosen for your eye and for the upkeep you are willing to follow. Technique names are not published until the menu is final."
+        }
+      }
+    },
+    "makeup": {
+      "title": "Make-up and bridal",
+      "summary": "Bridal make-up, events and photo shoots.",
+      "intro": "Naima's make-up is made to last and to look like you: a wedding day, an event, or a shoot.",
+      "body": "",
+      "offerings": {
+        "bride": {
+          "title": "Bridal make-up",
+          "text": "It is not a different face. It is yours, held together for the whole day: morning light, photographs, evening. It starts with a conversation and, when it helps, a trial."
+        },
+        "events": {
+          "title": "Event make-up",
+          "text": "Ceremonies, parties, occasions when you want to feel settled without retouching every half hour. The intensity is decided together."
+        },
+        "shoots": {
+          "title": "Photo shoots",
+          "text": "Make-up that holds under the camera and still reads up close. It is built around the face, the clothes and the idea of the picture."
+        }
+      }
+    },
+    "laser": {
+      "title": "Laser hair removal",
+      "summary": "A course of sessions, explained before it starts.",
+      "intro": "Laser hair removal is a course, not an absolute promise. Before anything begins, Naima looks at the skin and explains how a session works.",
+      "body": "Results vary from person to person. Laser does not guarantee permanent hair removal and it does not replace medical advice. If you are unsure about your skin, speak to a doctor before you book. The device name and the number of sessions are not listed here: they depend on an assessment and have not yet been provided.",
+      "offerings": {
+        "session": {
+          "title": "The session",
+          "text": "One appointment at a time, on the area you have agreed. Naima tells you what to expect before anything is switched on. It is not a medical procedure."
+        },
+        "path": {
+          "title": "The course",
+          "text": "Several sessions, spaced out. No sample timetable is published, because the right rhythm is not the same for everyone. It is set together, according to the skin and how it responds."
+        }
+      }
+    },
+    "headSpa": {
+      "title": "Head spa",
+      "summary": "A slow ritual for the scalp.",
+      "intro": "Head spa is the treatment where the studio deliberately slows down. It is not an add-on. It is a piece of care made for the head and for the breath.",
+      "body": "Cleansing, massage, attention to the scalp. It is a wellbeing treatment. It is not therapy, it does not diagnose, and it does not treat conditions of the skin or hair. If you have a dermatological condition, ask a doctor first.",
+      "offerings": {
+        "ritual": {
+          "title": "The ritual",
+          "text": "A continuous stretch of time, without theatrical hurry. You arrive, you let go, you leave lighter. The exact sensory steps will be described once Naima has fixed the protocol she wants to publish."
+        },
+        "scalp": {
+          "title": "The scalp",
+          "text": "The care stays aesthetic: cleanliness, comfort, massage. No medical benefit is promised, and no product is named unless it is the one actually used in the room."
+        }
+      }
+    }
+  },
+  "bridal": {
+    "eyebrow": "Bridal make-up",
+    "title": "The day every detail matters.",
+    "lead": "Naima prepares bridal make-up, event make-up and photo shoots. One priority: that you recognise yourself, and that the make-up stays.",
+    "body": "It starts with a conversation. About the light, the dress, how made-up you want to feel, who will be around you. Then it is tried, softened or defined. There is no package with an invented price. The proposal is closed with Naima, according to the hour, the place and what is actually needed.",
+    "approachTitle": "How it is prepared",
+    "approachBody": "A meeting to understand the face and the day. A trial, when the wedding or the shoot calls for one. On the day itself, time that is kept, and make-up designed to last beyond the first photograph.",
+    "instagramTitle": "The make-up, for now",
+    "instagramBody": "Bridal and set photographs will be published here only with the consent of the people in them. Naima's make-up account is where the work can already be seen."
+  },
+  "portfolio": {
+    "eyebrow": "Portfolio",
+    "title": "Selected work",
+    "lead": "A gallery kept for Naima's own work. No generic photography, no before-and-after without permission.",
+    "empty": "Authorised images will be published here, grouped by family. Until then, the two Instagram accounts are the most direct way to see the work.",
+    "categoriesLabel": "Filter the work",
+    "categories": {
+      "all": "All",
+      "nails": "Nails",
+      "lashes": "Lashes",
+      "makeup": "Make-up",
+      "bridal": "Bridal",
+      "headSpa": "Head spa"
+    },
+    "emptyFilter": "There are no images in this family yet.",
+    "dialog": "Enlarged image",
+    "previous": "Previous image",
+    "next": "Next image"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Naima Natoli",
+    "lead": "Beauty therapist, in the Messina area. Fifteen years of practice, a studio that holds precision and warmth together.",
+    "story": "Naima created her practice in 2016, in Switzerland. In 2024 she moved it to Sicily. It was not a change of profession. It was the same work, brought back to the place where she wanted to continue it.",
+    "clients": "Her clients are mostly working women, mothers and teenage girls. They want a considered result, someone who explains, and an hour that is not cold. The studio is a place of beauty and, at the same time, of trust: you talk, you are heard, you leave on time.",
+    "practiceTitle": "The way of working",
+    "qualities": {
+      "precision": { "title": "Precision", "text": "The result is judged up close." },
+      "speed": { "title": "Pace", "text": "Quick, without being rushed." },
+      "products": { "title": "Products", "text": "What Naima has chosen, not an anonymous catalogue." },
+      "listen": { "title": "Listening", "text": "The client says where to begin." },
+      "detail": { "title": "Detail", "text": "That is where a treatment becomes hers." },
+      "punctual": { "title": "Punctuality", "text": "The time of the person who booked is respected." },
+      "training": { "title": "Training", "text": "The practice continues, even after fifteen years." },
+      "innovation": { "title": "New techniques", "text": "They are learned, then kept only if they improve the work." }
+    }
+  },
+  "booking": {
+    "eyebrow": "Booking",
+    "title": "Book your appointment.",
+    "lead": "Choose the treatment. If Naima's online calendar is connected, you can open the real times. If it is not yet, WhatsApp is the direct way to write and arrange a time.",
+    "pending": "Online booking will be available soon.",
+    "pendingDetail": "The calendar is not yet connected to Naima's Cal.com account, so no times appear here. No slot is shown for show. Write to her on WhatsApp: she answers herself.",
+    "timezone": "When the calendar is active, times will follow Rome, Europe/Rome. Breaks, leave and durations are managed from her account, not from this website.",
+    "choose": "Treatment",
+    "openExternal": "Open the calendar on Cal.com",
+    "showEmbed": "Show the calendar on this page",
+    "consent": "I agree to load the Cal.com calendar. That service may set third-party cookies on my device.",
+    "whatsappInstead": "Prefer to write",
+    "configuredLead": "The times you see are Naima's calendar. This site does not invent availability and does not ask you to create an account.",
+    "embedLoading": "Loading the calendar…",
+    "externalNote": "Cal.com opens in a new tab and applies its own policy."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Write to Naima.",
+    "lead": "WhatsApp is the simplest way. Phone and email work now. The form will be connected to a real sending service before the site opens. Until then, it does not pretend to send.",
+    "addressTitle": "Studio",
+    "areaNote": "The street is the one Naima gave. The town, postcode and exact map pin will be added after confirmation. The link opens a search, not a verified pin.",
+    "activity": "Area of work",
+    "directTitle": "Direct",
+    "formTitle": "Message",
+    "hours": "Visits are by appointment. Opening days and hours are not published yet."
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "consent": "I have read the privacy notice and I agree to the use of this information so that my message can be answered.",
+    "submit": "Send the message",
+    "sending": "Sending…",
+    "success": "Message sent. Naima will reply to the address you gave.",
+    "unconfigured": "The form is not yet connected to a sending service. The message was not sent. Use WhatsApp or email: both work now.",
+    "error": "The message could not be sent. Write on WhatsApp or by email.",
+    "fast": "Wait a moment, then try again.",
+    "nameError": "Please write your name.",
+    "emailError": "Please enter a valid email.",
+    "messageError": "The message is too short.",
+    "consentError": "Consent is needed before a reply can be sent."
+  },
+  "whatsapp": {
+    "general": "Hello Naima! I would like information about your treatments.",
+    "nails": "Hello Naima! I would like to book a nail, hand or foot treatment.",
+    "lashes": "Hello Naima! I would like to book a lash treatment.",
+    "makeup": "Hello Naima! I would like information about bridal make-up or make-up.",
+    "laser": "Hello Naima! I would like information about laser hair removal.",
+    "headSpa": "Hello Naima! I would like to book a head spa."
+  },
+  "cookieNotice": {
+    "text": "This site uses one technical cookie to remember the language. There are no advertising or analytics cookies.",
+    "action": "Understood",
+    "more": "Cookie policy"
+  },
+  "privacy": {
+    "eyebrow": "Privacy",
+    "title": "Privacy notice",
+    "notice": "This page is a draft prepared for Naima Studio di Bellezza. It must be reviewed by a professional and completed with the missing legal details before publication.",
+    "sections": [
+      {
+        "title": "Controller",
+        "paragraphs": [
+          "Controller, based on the information provided: Naima Natoli, for Naima Studio di Bellezza. Email: naima.natoli90@gmail.com. Phone: +39 346 370 7680. Address as given: Via Camillo Benso Conte di Cavour 4. Area of work: the Messina area, Sicily, Italy.",
+          "To be completed before publication: legal form, VAT number if applicable, town, postcode, full registered address and any other detail required under Italian law. These were not invented, because they were not provided."
+        ]
+      },
+      {
+        "title": "Data we process",
+        "paragraphs": [
+          "If you use the contact form: name, email address, the message and the record of consent. If you write on WhatsApp or call, the exchange happens on the services you choose, outside this website.",
+          "Technical browsing data is limited to what the site needs to work, in particular the language you choose. This version does not collect behavioural analytics."
+        ]
+      },
+      {
+        "title": "Why",
+        "paragraphs": [
+          "To answer requests for information and appointments, on the basis of the pre-contractual steps you ask for and of consent where it is required. Form data is not used for newsletters or advertising.",
+          "The site presents the studio and makes contact easy. There is no client account and no online payment."
+        ]
+      },
+      {
+        "title": "Bookings",
+        "paragraphs": [
+          "Online booking, once it is switched on, will run through Cal.com, connected to Naima's calendar. Booking details — name, contact, treatment, time — will then be processed by Cal.com under its own notice, and by Naima in order to manage the appointment.",
+          "Until her account is connected, the site shows no availability and collects no booking data. A button may take you to WhatsApp."
+        ]
+      },
+      {
+        "title": "WhatsApp, Instagram and maps",
+        "paragraphs": [
+          "Links to WhatsApp, Instagram and Google Maps take you to third-party services. Opening them is your choice. Those services process data under their own rules. This site does not embed their content and does not read profiles automatically."
+        ]
+      },
+      {
+        "title": "How long",
+        "paragraphs": [
+          "Contact messages are kept for as long as needed to reply and to meet any duty that follows, and no longer than necessary. Exact periods will be stated when the sending tool is chosen. This draft does not invent a retention period."
+        ]
+      },
+      {
+        "title": "Who receives data",
+        "paragraphs": [
+          "The studio, in order to reply. The site host, Vercel, in order to serve the pages. The email provider, only once it is connected and named. Cal.com, only if you book through the calendar. Authorities, where the law requires it.",
+          "Some technical providers may process data outside the European Economic Area. Contractual safeguards must be checked before publication, together with the exact name of each processor."
+        ]
+      },
+      {
+        "title": "Your rights",
+        "paragraphs": [
+          "You may ask for access, correction, erasure, restriction, objection and, where it applies, portability. You may withdraw consent without affecting the lawfulness of processing already carried out. You may lodge a complaint with the Italian data protection authority, the Garante.",
+          "To use these rights: naima.natoli90@gmail.com. The request is handled by Naima, not by an automatic system on this site."
+        ]
+      }
+    ]
+  },
+  "cookies": {
+    "eyebrow": "Cookies",
+    "title": "Cookie policy",
+    "notice": "Draft, to be reviewed before publication. It describes the site as it is today: no advertising cookies, no analytics tool.",
+    "sections": [
+      {
+        "title": "What we use",
+        "paragraphs": [
+          "One technical cookie may remember the language you chose among Italian, French and English. It reopens the site in that language. It does not track campaigns and it does not build a profile.",
+          "Dismissing the cookie notice is stored in your browser's local storage, on your device. It is not a third-party cookie."
+        ]
+      },
+      {
+        "title": "What we do not use",
+        "paragraphs": [
+          "No analytics, advertising or social-network cookies are set. Instagram is only a link. Google Maps is only a link: the map is not embedded, so this site does not load the related script.",
+          "Those tools will not be switched on without a proper consent mechanism."
+        ]
+      },
+      {
+        "title": "Cal.com",
+        "paragraphs": [
+          "If you later ask to see the calendar inside the page, the Cal.com module loads only after explicit consent. That service may set its own cookies. You can also open Cal.com in a separate tab, or write on WhatsApp without loading anything.",
+          "Until Naima's account is connected, the calendar is not loaded."
+        ]
+      },
+      {
+        "title": "Managing cookies",
+        "paragraphs": [
+          "You can delete or block cookies in your browser settings. If you block the language cookie, the site still works. It may simply forget the language between visits."
+        ]
+      }
+    ]
+  },
+  "notFound": {
+    "title": "This page is not here.",
+    "body": "The link may be old, or the address was mistyped. Go back to the studio and choose from there.",
+    "home": "Back to the home page"
+  },
+  "error": {
+    "title": "Something stopped.",
+    "body": "The page did not load. You can try again, or write to Naima on WhatsApp.",
+    "retry": "Try again"
+  },
+  "footer": {
+    "visit": "Studio",
+    "contact": "Contact",
+    "explore": "Explore",
+    "area": "Messina area, Sicily",
+    "credit": "A KIBŌ project",
+    "privacy": "Privacy",
+    "cookies": "Cookies"
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "meta": {
+    "home": {
+      "title": "Naima Studio di Bellezza | Institut de beauté dans le territoire de Messine",
+      "description": "L'institut de Naima Natoli, dans le territoire de Messine. Manucure, pédicure, cils, maquillage mariée, épilation laser et head spa. Prenez rendez-vous."
+    },
+    "treatments": {
+      "title": "Soins esthétiques à Messine | Naima Studio di Bellezza",
+      "description": "Ongles, cils, maquillage, épilation laser et head spa avec Naima Natoli. Des soins précis, dans le territoire de Messine, sur rendez-vous."
+    },
+    "nails": {
+      "title": "Manucure et pédicure à Messine | Naima Studio di Bellezza",
+      "description": "Manucure, pédicure et soin des ongles dans le territoire de Messine. Un travail précis, convenu avec vous avant de commencer."
+    },
+    "lashes": {
+      "title": "Rehaussement et extensions de cils à Messine | Naima Studio di Bellezza",
+      "description": "Rehaussement et extensions de cils avec Naima Natoli. Un regard soigné, dans le territoire de Messine."
+    },
+    "laser": {
+      "title": "Épilation laser à Messine | Naima Studio di Bellezza",
+      "description": "Épilation laser dans le territoire de Messine. Un parcours de séances expliqué clairement, sans garantie d'élimination définitive."
+    },
+    "headSpa": {
+      "title": "Head spa à Messine | Naima Studio di Bellezza",
+      "description": "Head spa dans le territoire de Messine : un moment de soin du cuir chevelu, de pause et de bien-être. Ce n'est pas un soin médical."
+    },
+    "bridal": {
+      "title": "Maquillage mariée à Messine | Naima Studio di Bellezza",
+      "description": "Maquillage de mariée, maquillage d'événements et shootings avec Naima Natoli, maquilleuse dans le territoire de Messine."
+    },
+    "portfolio": {
+      "title": "Portfolio | Naima Studio di Bellezza",
+      "description": "Les réalisations de Naima Natoli, publiées seulement lorsqu'elle en a l'autorisation. Ongles, cils, maquillage, mariée et head spa."
+    },
+    "about": {
+      "title": "Naima Natoli, esthéticienne | Naima Studio di Bellezza",
+      "description": "Naima Natoli, esthéticienne avec quinze ans d'expérience. Activité ouverte en Suisse en 2016, transférée en Sicile en 2024."
+    },
+    "booking": {
+      "title": "Prendre rendez-vous | Naima Studio di Bellezza",
+      "description": "Réservez un soin avec Naima Natoli. La réservation en ligne sera reliée à son calendrier. En attendant, écrivez-lui sur WhatsApp."
+    },
+    "contact": {
+      "title": "Contact | Naima Studio di Bellezza",
+      "description": "Écrivez à Naima Natoli sur WhatsApp, par téléphone ou par e-mail. Via Camillo Benso Conte di Cavour 4, territoire de Messine."
+    },
+    "privacy": {
+      "title": "Politique de confidentialité | Naima Studio di Bellezza",
+      "description": "Projet d'information sur le traitement des données de Naima Studio di Bellezza. À faire valider avant publication."
+    },
+    "cookies": {
+      "title": "Politique cookies | Naima Studio di Bellezza",
+      "description": "Projet de politique cookies de Naima Studio di Bellezza. Le site n'active pas de cookies publicitaires."
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "treatments": "Soins",
+    "bridal": "Make-up & Mariée",
+    "portfolio": "Portfolio",
+    "about": "À propos",
+    "contact": "Contact",
+    "book": "Réserver",
+    "menu": "Menu",
+    "close": "Fermer",
+    "languages": "Langue",
+    "primary": "Navigation principale"
+  },
+  "common": {
+    "skip": "Aller au contenu",
+    "book": "Prendre rendez-vous",
+    "bookShort": "Réserver",
+    "whatsapp": "Écrire sur WhatsApp",
+    "discover": "Découvrir les soins",
+    "read": "Découvrir",
+    "priceNote": "La durée et le tarif se conviennent au moment de la réservation. Ils ne sont pas encore publiés.",
+    "appointment": "Sur rendez-vous",
+    "draft": "Projet à faire valider avant publication. Ce n'est pas encore le document définitif.",
+    "instagramStudio": "Instagram de l'institut",
+    "instagramMakeup": "Instagram maquillage",
+    "directions": "Ouvrir la rue sur Google Maps",
+    "call": "Appeler",
+    "email": "Écrire un e-mail",
+    "partner": "Visiter La Truccheria Cherie",
+    "back": "Tous les soins",
+    "closeDialog": "Fermer",
+    "open": "Ouvrir"
+  },
+  "home": {
+    "heroEyebrow": "Naima Studio di Bellezza",
+    "heroTitle": "La beauté est dans les détails.",
+    "heroSubtitle": "Soins esthétiques, maquillage et moments de bien-être, avec le soin, la précision et l'expérience que tu mérites.",
+    "heroArea": "Territoire de Messine · Sicile",
+    "presentEyebrow": "L'institut",
+    "presentTitle": "Un moment, rien que pour toi.",
+    "presentLead": "Naima Studio di Bellezza est l'institut de Naima Natoli, dans le territoire de Messine. Un lieu volontairement intime : un geste précis, des produits choisis avec soin, et le temps d'être écoutée.",
+    "presentBody": "Ce n'est pas un luxe distant. C'est une heure bien faite. Des femmes actives, des mères, des adolescentes y viennent : elles cherchent un résultat soigné et un moment qui reste humain, même lorsque le soin est rapide.",
+    "pillars": {
+      "listen": {
+        "title": "Écoute",
+        "text": "On part de ce que tu veux, pas d'un protocole identique pour toutes."
+      },
+      "precision": {
+        "title": "Précision",
+        "text": "Le détail se voit de près : le trait, la peau, l'ongle, le temps."
+      },
+      "quality": {
+        "title": "Qualité",
+        "text": "Des produits choisis, et une main qui continue de se former."
+      },
+      "wellbeing": {
+        "title": "Bien-être",
+        "text": "Même un soin court peut être un moment calme."
+      }
+    },
+    "servicesEyebrow": "Les soins",
+    "servicesTitle": "Cinq façons de prendre soin.",
+    "servicesIntro": "Choisis par où commencer. Chaque page raconte le soin sans combler les vides : pas de tarifs inventés, pas de promesses que Naima n'a pas faites.",
+    "expertiseEyebrow": "L'expérience",
+    "expertiseFigure": "15",
+    "expertiseUnit": "ans de pratique",
+    "expertiseTitle": "Quinze ans, une seule exigence : bien faire.",
+    "expertiseBody": "Naima travaille dans l'esthétique depuis environ quinze ans. En 2016, elle a ouvert son activité en Suisse. En 2024, elle l'a transférée en Sicile. La lumière a changé, pas la manière : arriver à l'heure, observer, expliquer, exécuter avec soin.",
+    "expertiseBody2": "La formation ne s'est pas arrêtée. Les techniques évoluent, l'attention reste. Ici, l'expérience n'est pas un chiffre à exhiber : c'est la raison pour laquelle un soin peut être à la fois précis et serein.",
+    "portfolioEyebrow": "Réalisations",
+    "portfolioTitle": "Le travail, lorsqu'il peut être montré.",
+    "portfolioBody": "Les photographies viennent uniquement de Naima, et seulement si la personne photographiée a donné son accord. En attendant les images, les deux comptes Instagram racontent le quotidien de l'institut et du maquillage.",
+    "headSpaEyebrow": "Head spa",
+    "headSpaTitle": "Une pause pour la tête.",
+    "headSpaBody": "Le head spa est un temps consacré au cuir chevelu : nettoyage, massage, une vraie pause. C'est du bien-être, pas une thérapie et pas un acte médical. Il ne soigne pas les pathologies du cuir chevelu. Il offre de l'attention, des mains précises, et une heure où la tête peut se reposer.",
+    "headSpaLink": "Découvrir le head spa",
+    "partnerEyebrow": "Les cosmétiques",
+    "partnerTitle": "La Truccheria Cherie",
+    "partnerBody": "Pour le maquillage, Naima travaille avec La Truccheria Cherie, la maison sicilienne d'Orazio Tomarchio. Une ligne pensée et réalisée en Sicile, choisie pour tenir ensemble le geste, la qualité du produit et un lien concret avec l'île.",
+    "reviewsTitle": "Paroles",
+    "closingTitle": "Ton prochain moment de beauté t'attend.",
+    "closingBody": "Écris à Naima, ou prépare ton rendez-vous. Elle te répond en personne."
+  },
+  "services": {
+    "indexEyebrow": "Soins",
+    "indexTitle": "Ce que tu peux réserver.",
+    "indexLead": "Cinq familles de soins, racontées sans remplir les blancs. Lorsque Naima confirmera les durées et les tarifs, ils prendront place ici, dans la même liste.",
+    "nails": {
+      "title": "Ongles, mains et pieds",
+      "summary": "Manucure, pédicure et soin des ongles.",
+      "intro": "Les mains et les pieds demandent la même attention que le visage. Le soin se construit sur ton ongle, le temps dont tu disposes et le résultat que tu cherches.",
+      "body": "La manucure, la pédicure et les soins des ongles font partie du travail de Naima. La technique précise — forme, finition, produit — se choisit en cabine, ensemble. Elle n'est pas listée ici tant que le menu n'est pas arrêté avec elle.",
+      "offerings": {
+        "manicure": {
+          "title": "Manucure",
+          "text": "Un soin des mains net et précis. La proposition s'adapte à tes ongles et à l'occasion, sans protocole figé publié à l'avance."
+        },
+        "pedicure": {
+          "title": "Pédicure",
+          "text": "Le même critère, pour les pieds : observer, soigner, laisser un résultat ordonné. Les étapes exactes se conviennent sur place."
+        },
+        "care": {
+          "title": "Soins des ongles",
+          "text": "Lorsque l'ongle demande plus qu'une manucure, Naima regarde avec toi ce qui convient. Aucune technique n'est promise si ce n'est pas celle qu'elle pratique vraiment."
+        }
+      }
+    },
+    "lashes": {
+      "title": "Cils et regard",
+      "summary": "Rehaussement de cils et extensions.",
+      "intro": "Deux chemins, tous deux précis. Le choix dépend de ton regard, de ta routine et de la façon dont tu veux te réveiller le lendemain.",
+      "body": "Naima te le dit avant de commencer, pas après. Le rehaussement et les extensions ne sont pas la même chose, et il n'existe pas un seul résultat qui aille à tout le monde.",
+      "offerings": {
+        "lamination": {
+          "title": "Rehaussement, ou lifting des cils",
+          "text": "Il travaille tes propres cils : il les relève et les définit, sans ajouter de faux cils. Il convient si tu veux un regard plus ouvert en restant sur ce que tu as déjà."
+        },
+        "extensions": {
+          "title": "Extensions de cils",
+          "text": "Elles ajoutent longueur et densité. Le type de pose se décide selon ton œil et l'entretien que tu es prête à suivre. Les noms des techniques ne sont pas publiés tant que le menu n'est pas définitif."
+        }
+      }
+    },
+    "makeup": {
+      "title": "Maquillage et mariée",
+      "summary": "Maquillage de mariée, événements et shootings.",
+      "intro": "Le maquillage de Naima est pensé pour tenir et pour te ressembler : le jour du mariage, un événement, ou un shooting.",
+      "body": "",
+      "offerings": {
+        "bride": {
+          "title": "Maquillage de mariée",
+          "text": "Ce n'est pas un autre visage. C'est le tien, tenu pendant toutes les heures : la lumière du matin, les photos, le soir. On le prépare par un échange et, lorsque c'est utile, par un essai."
+        },
+        "events": {
+          "title": "Maquillage d'événements",
+          "text": "Cérémonies, fêtes, occasions où tu veux te sentir à ta place sans te retoucher toutes les demi-heures. L'intensité se décide ensemble."
+        },
+        "shoots": {
+          "title": "Shootings photo",
+          "text": "Un maquillage qui tient la lumière de l'appareil et reste lisible de près. Il se construit sur le visage, la tenue et l'idée de la photo."
+        }
+      }
+    },
+    "laser": {
+      "title": "Épilation laser",
+      "summary": "Un parcours de séances, expliqué avant de commencer.",
+      "intro": "L'épilation laser est un parcours, pas une promesse absolue. Avant de commencer, Naima observe la peau et t'explique comment se déroule la séance.",
+      "body": "Les résultats varient d'une personne à l'autre. Le laser ne garantit pas une élimination définitive des poils et ne remplace pas un avis médical. Si tu as un doute sur ta peau, parles-en à un médecin avant de réserver. Le nom de l'appareil et le nombre de séances ne sont pas indiqués ici : ils dépendent de l'évaluation et n'ont pas encore été communiqués.",
+      "offerings": {
+        "session": {
+          "title": "La séance",
+          "text": "Un rendez-vous à la fois, sur la zone convenue. Naima te dit à quoi t'attendre avant d'allumer quoi que ce soit. Ce n'est pas un acte médical."
+        },
+        "path": {
+          "title": "Le parcours",
+          "text": "Plusieurs séances, espacées. Aucun calendrier type n'est publié, parce que le bon rythme n'est pas le même pour toutes. Il se définit ensemble, selon la peau et la réponse."
+        }
+      }
+    },
+    "headSpa": {
+      "title": "Head spa",
+      "summary": "Un rituel de pause pour le cuir chevelu.",
+      "intro": "Le head spa est le soin où l'institut ralentit exprès. Ce n'est pas un supplément : c'est un moment de soin, construit pour la tête et pour le souffle.",
+      "body": "Nettoyage, massage, attention au cuir chevelu. C'est un soin de bien-être. Ce n'est pas une thérapie, cela ne pose pas de diagnostic et ne soigne pas les pathologies de la peau ou des cheveux. Si tu as une condition dermatologique, demande d'abord à un médecin.",
+      "offerings": {
+        "ritual": {
+          "title": "Le rituel",
+          "text": "Un temps continu, sans précipitation théâtrale. On entre, on se confie, on sort plus légère. Les étapes sensorielles précises seront décrites lorsque Naima aura fixé le protocole à publier."
+        },
+        "scalp": {
+          "title": "Le cuir chevelu",
+          "text": "Le soin reste sur le plan esthétique : propreté, confort, massage. Aucun bénéfice médical n'est promis, et aucun produit n'est cité s'il n'est pas celui qui est vraiment utilisé en cabine."
+        }
+      }
+    }
+  },
+  "bridal": {
+    "eyebrow": "Make-up & Mariée",
+    "title": "Le jour où chaque détail compte.",
+    "lead": "Naima prépare le maquillage de mariée, le maquillage d'événements et les shootings. La priorité est une : que tu te reconnaisses, et que le maquillage reste en place.",
+    "body": "On commence par parler. De la lumière, de la robe, de l'intensité que tu veux, des personnes autour de toi. Ensuite on essaie, on allège ou on affirme. Aucun forfait à un prix imaginaire : la proposition se ferme avec Naima, selon l'horaire, le lieu et ce qui est vraiment nécessaire.",
+    "approachTitle": "Comment on prépare",
+    "approachBody": "Un échange pour comprendre le visage et la journée. Un essai, lorsque le mariage ou le shooting le demandent. Le jour même, des horaires tenus et un maquillage pensé pour durer, pas seulement pour la première photo.",
+    "instagramTitle": "Le maquillage, en attendant",
+    "instagramBody": "Les photos de mariées et de plateaux seront publiées ici seulement avec l'accord des personnes photographiées. Le compte maquillage de Naima est l'endroit où le travail se voit déjà."
+  },
+  "portfolio": {
+    "eyebrow": "Portfolio",
+    "title": "Réalisations",
+    "lead": "Une galerie réservée au travail de Naima. Aucune photo générique, aucun avant/après sans autorisation.",
+    "empty": "Les images autorisées seront publiées ici, classées par famille. D'ici là, les deux comptes Instagram restent le moyen le plus direct de voir le travail.",
+    "categoriesLabel": "Filtrer les réalisations",
+    "categories": {
+      "all": "Toutes",
+      "nails": "Ongles",
+      "lashes": "Cils",
+      "makeup": "Maquillage",
+      "bridal": "Mariée",
+      "headSpa": "Head spa"
+    },
+    "emptyFilter": "Il n'y a pas encore d'images dans cette famille.",
+    "dialog": "Image agrandie",
+    "previous": "Image précédente",
+    "next": "Image suivante"
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title": "Naima Natoli",
+    "lead": "Esthéticienne, dans le territoire de Messine. Quinze ans de pratique, un institut qui tient ensemble précision et proximité.",
+    "story": "Naima a créé son activité en 2016, en Suisse. En 2024, elle l'a transférée en Sicile. Ce n'est pas un changement de métier : c'est le même travail, ramené là où elle voulait continuer à l'exercer.",
+    "clients": "Ses clientes sont surtout des femmes actives, des mères et des adolescentes. Elles cherchent un résultat soigné, quelqu'un qui explique, et une heure qui ne soit pas froide. L'institut est un espace de beauté et, en même temps, de confiance : on parle, on écoute, on repart à l'heure.",
+    "practiceTitle": "La façon de travailler",
+    "qualities": {
+      "precision": { "title": "Précision", "text": "Le résultat se juge de près." },
+      "speed": { "title": "Rapidité", "text": "Aller vite sans être pressée." },
+      "products": { "title": "Qualité des produits", "text": "On utilise ce que Naima a choisi, pas un catalogue anonyme." },
+      "listen": { "title": "Écoute", "text": "La cliente dit d'où l'on part." },
+      "detail": { "title": "Détail", "text": "C'est là qu'un soin devient le sien." },
+      "punctual": { "title": "Ponctualité", "text": "Le temps de celle qui réserve se respecte." },
+      "training": { "title": "Formation", "text": "La pratique continue, même après quinze ans." },
+      "innovation": { "title": "Techniques nouvelles", "text": "On les apprend, puis on ne garde que celles qui améliorent le travail." }
+    }
+  },
+  "booking": {
+    "eyebrow": "Réservation",
+    "title": "Prends rendez-vous.",
+    "lead": "Choisis le soin. Si le calendrier en ligne de Naima est relié, tu peux ouvrir les horaires réels. S'il ne l'est pas encore, WhatsApp est le moyen direct d'écrire et de fixer.",
+    "pending": "La réservation en ligne sera bientôt disponible.",
+    "pendingDetail": "Le calendrier n'est pas encore relié au compte Cal.com de Naima, donc aucun horaire n'apparaît ici. Aucun créneau n'est affiché pour faire semblant. Écris-lui sur WhatsApp : elle répond en personne.",
+    "timezone": "Lorsque le calendrier sera actif, les horaires suivront le fuseau de Rome, Europe/Rome. Les pauses, les congés et les durées se gèrent depuis son compte, pas depuis ce site.",
+    "choose": "Soin",
+    "openExternal": "Ouvrir le calendrier sur Cal.com",
+    "showEmbed": "Afficher le calendrier sur cette page",
+    "consent": "J'accepte de charger le calendrier Cal.com. Ce service peut déposer des cookies tiers sur mon appareil.",
+    "whatsappInstead": "Tu préfères écrire",
+    "configuredLead": "Les horaires que tu vois sont ceux du calendrier de Naima. Ce site n'invente pas de disponibilités et ne te demande pas de créer un compte.",
+    "embedLoading": "Chargement du calendrier…",
+    "externalNote": "Cal.com s'ouvre dans un nouvel onglet et applique sa propre politique."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Écris à Naima.",
+    "lead": "WhatsApp est le plus simple. Le téléphone et l'e-mail fonctionnent tout de suite. Le formulaire sera relié à un envoi réel avant l'ouverture du site : jusque-là, il ne fait pas semblant d'envoyer.",
+    "addressTitle": "Institut",
+    "areaNote": "La rue est celle communiquée par Naima. La commune, le code postal et le point exact sur la carte seront ajoutés après confirmation. Le lien ouvre une recherche, pas une épingle vérifiée.",
+    "activity": "Zone d'activité",
+    "directTitle": "Direct",
+    "formTitle": "Message",
+    "hours": "L'accueil se fait sur rendez-vous. Les jours et horaires d'ouverture ne sont pas encore publiés."
+  },
+  "form": {
+    "name": "Nom",
+    "email": "E-mail",
+    "message": "Message",
+    "consent": "J'ai lu la politique de confidentialité et j'accepte le traitement des données pour répondre à ce message.",
+    "submit": "Envoyer le message",
+    "sending": "Envoi…",
+    "success": "Message envoyé. Naima te répond à l'adresse indiquée.",
+    "unconfigured": "Le formulaire n'est pas encore relié à un service d'envoi. Le message n'est pas parti. Utilise WhatsApp ou l'e-mail : ils fonctionnent tout de suite.",
+    "error": "L'envoi n'a pas abouti. Écris sur WhatsApp ou par e-mail.",
+    "fast": "Attends un instant, puis réessaie.",
+    "nameError": "Indique ton nom.",
+    "emailError": "Indique un e-mail valide.",
+    "messageError": "Le message est trop court.",
+    "consentError": "Le consentement est nécessaire pour pouvoir répondre."
+  },
+  "whatsapp": {
+    "general": "Bonjour Naima ! Je souhaiterais des informations sur tes soins.",
+    "nails": "Bonjour Naima ! Je souhaiterais réserver un soin des ongles, des mains ou des pieds.",
+    "lashes": "Bonjour Naima ! Je souhaiterais réserver un soin des cils.",
+    "makeup": "Bonjour Naima ! Je souhaiterais des informations sur le maquillage de mariée ou le make-up.",
+    "laser": "Bonjour Naima ! Je souhaiterais des informations sur l'épilation laser.",
+    "headSpa": "Bonjour Naima ! Je souhaiterais réserver un head spa."
+  },
+  "cookieNotice": {
+    "text": "Ce site utilise un cookie technique pour retenir la langue. Il n'y a pas de cookies publicitaires ni de mesure d'audience.",
+    "action": "J'ai compris",
+    "more": "Politique cookies"
+  },
+  "privacy": {
+    "eyebrow": "Confidentialité",
+    "title": "Information sur le traitement des données",
+    "notice": "Cette page est un projet préparé pour Naima Studio di Bellezza. Elle doit être relue par un professionnel et complétée avec les données légales manquantes avant toute publication.",
+    "sections": [
+      {
+        "title": "Responsable",
+        "paragraphs": [
+          "Responsable du traitement, d'après les informations communiquées : Naima Natoli, pour Naima Studio di Bellezza. E-mail : naima.natoli90@gmail.com. Téléphone : +39 346 370 7680. Adresse communiquée : Via Camillo Benso Conte di Cavour 4. Zone d'activité : territoire de Messine, Sicile, Italie.",
+          "À compléter avant publication : forme juridique, numéro de TVA s'il s'applique, commune, code postal, adresse complète du siège et toute autre mention exigée par le droit italien. Ces éléments n'ont pas été inventés, parce qu'ils n'ont pas été fournis."
+        ]
+      },
+      {
+        "title": "Données traitées",
+        "paragraphs": [
+          "Si tu utilises le formulaire : nom, adresse e-mail, contenu du message et la preuve du consentement. Si tu écris sur WhatsApp ou par téléphone, l'échange a lieu sur les services que tu choisis, en dehors de ce site.",
+          "Des données techniques de navigation, limitées à ce qui fait fonctionner le site, en particulier la langue choisie. Cette version ne collecte pas de données d'analyse du comportement."
+        ]
+      },
+      {
+        "title": "Pourquoi",
+        "paragraphs": [
+          "Pour répondre aux demandes d'information et de rendez-vous, sur la base des mesures précontractuelles que tu demandes et du consentement lorsqu'il est nécessaire. Les données du formulaire ne servent pas à une newsletter ni à de la publicité.",
+          "Le site présente l'institut et facilite le contact. Il n'y a pas de compte client et pas de paiement en ligne."
+        ]
+      },
+      {
+        "title": "Réservations",
+        "paragraphs": [
+          "La réservation en ligne, lorsqu'elle sera activée, passera par Cal.com, relié au calendrier de Naima. Les données du rendez-vous — nom, contacts, soin, horaire — seront alors traitées par Cal.com selon sa politique, et par Naima pour gérer le rendez-vous.",
+          "Tant que le compte n'est pas relié, le site n'affiche pas de disponibilités et ne collecte pas de données de réservation. Un bouton peut t'orienter vers WhatsApp."
+        ]
+      },
+      {
+        "title": "WhatsApp, Instagram et cartes",
+        "paragraphs": [
+          "Les liens vers WhatsApp, Instagram et Google Maps t'emmènent vers des services tiers. Les ouvrir est ton choix. Ces services traitent les données selon leurs propres règles. Ce site n'intègre pas leurs contenus et ne lit pas les profils automatiquement."
+        ]
+      },
+      {
+        "title": "Durée",
+        "paragraphs": [
+          "Les messages de contact sont conservés le temps de répondre et d'éventuelles obligations qui suivent, et en tout cas pas au-delà du nécessaire. Les délais exacts seront indiqués lorsque l'outil d'envoi sera choisi. Ce projet ne fixe pas une durée imaginaire."
+        ]
+      },
+      {
+        "title": "Destinataires",
+        "paragraphs": [
+          "L'institut, pour répondre. L'hébergeur du site, Vercel, pour servir les pages. Le prestataire d'e-mail, seulement lorsqu'il sera relié et nommé. Cal.com, seulement si tu réserves depuis le calendrier. Les autorités, si la loi l'exige.",
+          "Certains prestataires techniques peuvent traiter des données en dehors de l'Espace économique européen. Les garanties contractuelles doivent être vérifiées avant publication, avec le nom exact de chaque sous-traitant."
+        ]
+      },
+      {
+        "title": "Tes droits",
+        "paragraphs": [
+          "Tu peux demander l'accès, la rectification, l'effacement, la limitation, t'opposer et, lorsque c'est applicable, la portabilité. Tu peux retirer un consentement sans remettre en cause la licéité du traitement déjà effectué. Tu peux introduire une réclamation auprès de l'autorité italienne de protection des données, le Garante.",
+          "Pour exercer tes droits : naima.natoli90@gmail.com. La demande est traitée par Naima, pas par un système automatique de ce site."
+        ]
+      }
+    ]
+  },
+  "cookies": {
+    "eyebrow": "Cookies",
+    "title": "Politique cookies",
+    "notice": "Projet à valider avant publication. Il décrit le site tel qu'il est aujourd'hui : pas de cookie publicitaire, pas d'outil de mesure d'audience.",
+    "sections": [
+      {
+        "title": "Ce que nous utilisons",
+        "paragraphs": [
+          "Un cookie technique peut retenir la langue choisie entre l'italien, le français et l'anglais. Il sert à rouvrir le site dans la même langue. Il ne suit pas de campagnes et ne construit pas de profil.",
+          "La fermeture de l'avis cookies est retenue dans la mémoire locale du navigateur, sur ton appareil. Ce n'est pas un cookie tiers."
+        ]
+      },
+      {
+        "title": "Ce que nous n'utilisons pas",
+        "paragraphs": [
+          "Aucun cookie d'analyse, publicitaire ou de réseau social n'est déposé. Instagram n'est qu'un lien. Google Maps n'est qu'un lien : la carte n'est pas intégrée dans la page, donc ce site ne charge pas le script correspondant.",
+          "Ces outils ne seront pas activés sans un mécanisme de consentement adapté."
+        ]
+      },
+      {
+        "title": "Cal.com",
+        "paragraphs": [
+          "Si, plus tard, tu demandes à voir le calendrier dans la page, le module Cal.com n'est chargé qu'après un consentement explicite. Ce service peut déposer ses propres cookies. Tu peux aussi ouvrir Cal.com dans un onglet séparé, ou écrire sur WhatsApp sans rien charger.",
+          "Tant que le compte de Naima n'est pas relié, le calendrier n'est pas chargé."
+        ]
+      },
+      {
+        "title": "Gérer les cookies",
+        "paragraphs": [
+          "Tu peux effacer ou bloquer les cookies dans les réglages du navigateur. Si tu bloques le cookie de langue, le site reste utilisable : il peut simplement oublier la langue d'une visite à l'autre."
+        ]
+      }
+    ]
+  },
+  "notFound": {
+    "title": "Cette page n'existe pas.",
+    "body": "Le lien est peut-être ancien, ou l'adresse a été mal saisie. Reviens à l'institut et choisis à partir de là.",
+    "home": "Retour à l'accueil"
+  },
+  "error": {
+    "title": "Quelque chose s'est interrompu.",
+    "body": "La page ne s'est pas chargée. Tu peux réessayer, ou écrire à Naima sur WhatsApp.",
+    "retry": "Réessayer"
+  },
+  "footer": {
+    "visit": "Institut",
+    "contact": "Contact",
+    "explore": "Explorer",
+    "area": "Territoire de Messine, Sicile",
+    "credit": "Projet KIBŌ",
+    "privacy": "Confidentialité",
+    "cookies": "Cookies"
+  }
+}
