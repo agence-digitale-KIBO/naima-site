@@ -86,10 +86,39 @@
     "closeDialog": "Chiudi",
     "open": "Apri"
   },
+  "hours": {
+    "pending": "Orari",
+    "draftMark": "Bozza",
+    "eyebrow": "L'istituto",
+    "open": "Aperto ora",
+    "until": "Fino alle {time}",
+    "closedNow": "Chiuso ora",
+    "closedToday": "Chiuso oggi",
+    "lunch": "Chiuso per pausa",
+    "reopensToday": "Riapre oggi alle {time}",
+    "reopensTomorrow": "Riapre domani alle {time}",
+    "reopensOn": "Riapre {day} alle {time}",
+    "unknown": "Orari da confermare",
+    "sectionTitle": "Orari di apertura",
+    "sectionLead": "Trova il momento perfetto per prenderti cura di te.",
+    "today": "Oggi",
+    "closed": "Chiuso",
+    "draft": "Questi orari sono una base provvisoria. Naima deve confermarli prima della pubblicazione. Non indicano i posti liberi in agenda.",
+    "bannerLabel": "Vedi gli orari di apertura",
+    "days": {
+      "monday": "lunedì",
+      "tuesday": "martedì",
+      "wednesday": "mercoledì",
+      "thursday": "giovedì",
+      "friday": "venerdì",
+      "saturday": "sabato",
+      "sunday": "domenica"
+    }
+  },
   "home": {
     "heroEyebrow": "Naima Studio di Bellezza",
     "heroTitle": "La bellezza è nei dettagli.",
-    "heroSubtitle": "Trattamenti estetici, make-up e momenti di benessere, con la cura, la precisione e l'esperienza che meriti.",
+    "heroSubtitle": "Trattamenti estetici, make-up e benessere, con la precisione e l'attenzione che meriti.",
     "heroArea": "Territorio di Messina · Sicilia",
     "presentEyebrow": "L'istituto",
     "presentTitle": "Un momento tutto per te.",
@@ -128,7 +157,12 @@
     "headSpaEyebrow": "Head spa",
     "headSpaTitle": "Una pausa per la testa.",
     "headSpaBody": "Lo head spa è un tempo dedicato al cuoio capelluto: detersione, massaggio, una pausa vera. È benessere, non una terapia e non un atto medico. Non cura patologie della cute. Offre attenzione, mani precise, e un'ora in cui la testa può riposare.",
-    "headSpaLink": "Scopri lo head spa",
+    "headSpaLink": "Scopri l'Head Spa",
+    "makeupEyebrow": "Make-up & sposa",
+    "makeupTitle": "Il giorno in cui ogni dettaglio conta.",
+    "makeupBody": "Trucco sposa, eventi e shooting. Il lavoro di Naima parte dal viso, dalla luce e da quello che vuoi sentirti addosso.",
+    "makeupLink": "Scopri il make-up sposa",
+    "visitEyebrow": "Contatti",
     "partnerEyebrow": "I cosmetici",
     "partnerTitle": "La Truccheria Cherie",
     "partnerBody": "Per il make-up Naima lavora con La Truccheria Cherie, la maison siciliana di Orazio Tomarchio. Una linea pensata e realizzata in Sicilia, scelta per tenere insieme il gesto, la qualità del prodotto e un legame concreto con l'isola.",
@@ -325,7 +359,7 @@
     "activity": "Zona di attività",
     "directTitle": "Diretta",
     "formTitle": "Messaggio",
-    "hours": "Si riceve su appuntamento. I giorni e gli orari di apertura non sono ancora pubblicati."
+    "hours": "Si riceve su appuntamento. Gli orari mostrati sul sito sono ancora provvisori."
   },
   "form": {
     "name": "Nome",

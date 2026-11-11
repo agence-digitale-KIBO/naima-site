@@ -1,4 +1,6 @@
+import { openingHours } from "@/config/opening-hours";
 import { site } from "@/config/site";
+import { openingHoursSpecification } from "@/lib/opening-status";
 import { getSiteUrl } from "@/lib/site-url";
 
 /**
@@ -29,6 +31,9 @@ export function beautySalonSchema(description: string) {
       name: "Provincia di Messina",
     },
     sameAs: [site.instagram.studio, site.instagram.makeup],
+    ...(openingHours.confirmed
+      ? { openingHoursSpecification: openingHoursSpecification(openingHours) }
+      : {}),
   };
 }
 

@@ -86,10 +86,39 @@
     "closeDialog": "Fermer",
     "open": "Ouvrir"
   },
+  "hours": {
+    "pending": "Horaires",
+    "draftMark": "Brouillon",
+    "eyebrow": "L'institut",
+    "open": "Ouvert actuellement",
+    "until": "Jusqu'à {time}",
+    "closedNow": "Fermé actuellement",
+    "closedToday": "Fermé aujourd'hui",
+    "lunch": "Fermé pour la pause",
+    "reopensToday": "Rouvre aujourd'hui à {time}",
+    "reopensTomorrow": "Rouvre demain à {time}",
+    "reopensOn": "Rouvre {day} à {time}",
+    "unknown": "Horaires à confirmer",
+    "sectionTitle": "Horaires d'ouverture",
+    "sectionLead": "Trouve le moment juste pour prendre soin de toi.",
+    "today": "Aujourd'hui",
+    "closed": "Fermé",
+    "draft": "Ces horaires sont une base provisoire. Naima doit les confirmer avant publication. Ils ne disent pas qu'un créneau est libre.",
+    "bannerLabel": "Voir les horaires d'ouverture",
+    "days": {
+      "monday": "lundi",
+      "tuesday": "mardi",
+      "wednesday": "mercredi",
+      "thursday": "jeudi",
+      "friday": "vendredi",
+      "saturday": "samedi",
+      "sunday": "dimanche"
+    }
+  },
   "home": {
     "heroEyebrow": "Naima Studio di Bellezza",
     "heroTitle": "La beauté est dans les détails.",
-    "heroSubtitle": "Soins esthétiques, maquillage et moments de bien-être, avec le soin, la précision et l'expérience que tu mérites.",
+    "heroSubtitle": "Soins esthétiques, maquillage et bien-être, avec la précision et l'attention que tu mérites.",
     "heroArea": "Territoire de Messine · Sicile",
     "presentEyebrow": "L'institut",
     "presentTitle": "Un moment, rien que pour toi.",
@@ -128,7 +157,12 @@
     "headSpaEyebrow": "Head spa",
     "headSpaTitle": "Une pause pour la tête.",
     "headSpaBody": "Le head spa est un temps consacré au cuir chevelu : nettoyage, massage, une vraie pause. C'est du bien-être, pas une thérapie et pas un acte médical. Il ne soigne pas les pathologies du cuir chevelu. Il offre de l'attention, des mains précises, et une heure où la tête peut se reposer.",
-    "headSpaLink": "Découvrir le head spa",
+    "headSpaLink": "Découvrir l'Head Spa",
+    "makeupEyebrow": "Maquillage & mariée",
+    "makeupTitle": "Le jour où chaque détail compte.",
+    "makeupBody": "Maquillage de mariée, événements et shootings. Naima part de ton visage, de la lumière et de ce que tu veux porter.",
+    "makeupLink": "Découvrir le maquillage mariée",
+    "visitEyebrow": "Contact",
     "partnerEyebrow": "Les cosmétiques",
     "partnerTitle": "La Truccheria Cherie",
     "partnerBody": "Pour le maquillage, Naima travaille avec La Truccheria Cherie, la maison sicilienne d'Orazio Tomarchio. Une ligne pensée et réalisée en Sicile, choisie pour tenir ensemble le geste, la qualité du produit et un lien concret avec l'île.",
@@ -301,7 +335,7 @@
     "activity": "Zone d'activité",
     "directTitle": "Direct",
     "formTitle": "Message",
-    "hours": "L'accueil se fait sur rendez-vous. Les jours et horaires d'ouverture ne sont pas encore publiés."
+    "hours": "L'accueil se fait sur rendez-vous. Les horaires affichés sur le site sont encore provisoires."
   },
   "form": {
     "name": "Nom",

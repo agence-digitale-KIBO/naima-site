@@ -47,7 +47,84 @@ body {
 }
 
 .skip-link:focus {
-  top: 1rem;
+  top: 7.5rem;
+}
+
+.site-chrome {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+}
+
+.site-header {
+  height: 4rem;
+  transition: height 0.25s ease;
+}
+
+.site-header.is-scrolled {
+  height: 3.6rem;
+}
+
+@media (min-width: 768px) {
+  .site-header {
+    height: 4.5rem;
+  }
+
+  .site-header.is-scrolled {
+    height: 4rem;
+  }
+}
+
+.opening-banner {
+  display: flex;
+  min-height: 2.25rem;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background: #191817;
+  padding: 0.4rem 1rem;
+  color: #f8f6f2;
+  text-align: center;
+  font-size: 0.72rem;
+  line-height: 1.35;
+}
+
+.opening-dot {
+  width: 0.4rem;
+  height: 0.4rem;
+  flex: none;
+  border: 1px solid #b59a69;
+  border-radius: 999px;
+}
+
+.opening-dot.is-open {
+  background: #b59a69;
+}
+
+#orari,
+#orario-oggi {
+  scroll-margin-top: 8rem;
+}
+
+.hours-today {
+  background: #f3efe9;
+  box-shadow: inset 2px 0 0 #b59a69;
+  padding-inline: 0.85rem;
+}
+
+@keyframes hours-glow {
+  0% {
+    background: #efe6d4;
+  }
+  100% {
+    background: #f3efe9;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .hours-focus {
+    animation: hours-glow 2.2s ease;
+  }
 }
 
 .eyebrow {
@@ -110,5 +187,11 @@ body {
 
   .rise {
     animation: none;
+  }
+
+  .site-header,
+  .hours-focus {
+    animation: none;
+    transition: none;
   }
 }

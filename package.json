@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
-    "test": "node --import tsx --test src/config/services.test.ts src/config/booking.test.ts src/lib/whatsapp.test.ts src/lib/contact.test.ts src/lib/messages.test.ts"
+    "test": "node --import tsx --test src/config/services.test.ts src/config/booking.test.ts src/lib/whatsapp.test.ts src/lib/contact.test.ts src/lib/messages.test.ts src/lib/opening-status.test.ts"
   },
   "dependencies": {
     "@calcom/embed-react": "^1.5.3",

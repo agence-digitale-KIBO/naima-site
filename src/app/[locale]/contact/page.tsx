@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import { ContactForm } from "@/components/contact-form";
+import { OpeningHours } from "@/components/opening-hours";
 import { PageIntro } from "@/components/page-intro";
 import { Shell } from "@/components/shell";
 import { site } from "@/config/site";
@@ -43,7 +44,6 @@ export default async function ContactPage({
             {t("contact.activity")}: {site.activityArea}
           </p>
           <p className="mt-3 text-sm leading-relaxed text-muted">{t("contact.areaNote")}</p>
-          <p className="mt-3 text-sm text-muted">{t("contact.hours")}</p>
           <a className="mt-6 inline-flex min-h-11 items-center underline underline-offset-4" href={site.mapsUrl} target="_blank" rel="noopener noreferrer">
             {t("common.directions")}
           </a>
@@ -79,6 +79,9 @@ export default async function ContactPage({
             <ContactForm />
           </div>
         </div>
+      </Shell>
+      <Shell className="pb-20">
+        <OpeningHours />
       </Shell>
     </>
   );

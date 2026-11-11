@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useId, useState } from "react";
+import { useEffect, useId, useRef, useState } from "react";
 import { Menu, X } from "lucide-react";
 import { useLocale, useTranslations } from "next-intl";
 import { useParams } from "next/navigation";
@@ -27,6 +27,16 @@ export function SiteHeader() {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
   const menuId = useId();
+  const headerRef = useRef<HTMLElement>(null);
+
+  useEffect(() => {
+    const header = headerRef.current;
+    if (!header) return;
+    const onScroll = () => header.classList.toggle("is-scrolled", window.scrollY > 8);
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
 
   useEffect(() => {
     if (!open) return;
@@ -43,11 +53,11 @@ export function SiteHeader() {
   }, [open]);
 
   return (
-    <header className="sticky top-0 z-40 border-b border-sand/80 bg-ivory/95 backdrop-blur-md">
-      <div className="mx-auto flex h-16 max-w-[1120px] items-center justify-between gap-4 px-5 sm:px-8 md:h-[4.5rem]">
+    <header ref={headerRef} className="site-header border-b border-sand/80 bg-ivory/95 backdrop-blur-md">
+      <div className="mx-auto flex h-full max-w-[1120px] items-center justify-between gap-3 px-5 sm:gap-5 sm:px-8">
         <Link href="/" className="min-w-0 leading-none">
           <span className="block font-serif text-[1.7rem] tracking-tight">Naima</span>
-          <span className="mt-1 block text-[0.58rem] tracking-[0.22em] uppercase text-muted">
+          <span className="mt-1 hidden text-[0.58rem] tracking-[0.22em] uppercase text-muted sm:block">
             Studio di Bellezza
           </span>
         </Link>
@@ -66,10 +76,10 @@ export function SiteHeader() {
         </nav>
 
         <div className="flex items-center gap-3 sm:gap-5">
-          <LanguageSwitcher onSwitch={() => setOpen(false)} />
+          <LanguageSwitcher className="hidden lg:flex" onSwitch={() => setOpen(false)} />
           <Link
             href="/booking"
-            className="hidden min-h-11 items-center border border-ink px-4 text-[0.68rem] tracking-[0.16em] uppercase hover:bg-ink hover:text-ivory sm:inline-flex"
+            className="inline-flex min-h-11 items-center border border-ink px-3 text-[0.68rem] tracking-[0.16em] uppercase hover:bg-ink hover:text-ivory sm:px-4"
           >
             {t("book")}
           </Link>
@@ -103,6 +113,7 @@ export function SiteHeader() {
             <Link href="/booking" onClick={() => setOpen(false)} className="mt-6 inline-flex min-h-11 items-center justify-center bg-ink px-4 text-[0.72rem] tracking-[0.16em] text-ivory uppercase">
               {t("book")}
             </Link>
+            <LanguageSwitcher className="mt-6" onSwitch={() => setOpen(false)} />
           </nav>
         </div>
       ) : null}
@@ -111,7 +122,7 @@ export function SiteHeader() {
   );
 }
 
-function LanguageSwitcher({ onSwitch }: { onSwitch: () => void }) {
+function LanguageSwitcher({ onSwitch, className = "" }: { onSwitch: () => void; className?: string }) {
   const t = useTranslations("nav");
   const locale = useLocale() as Locale;
   const router = useRouter();
@@ -141,7 +152,7 @@ function LanguageSwitcher({ onSwitch }: { onSwitch: () => void }) {
   }
 
   return (
-    <div className="flex items-center gap-2" role="group" aria-label={t("languages")}>
+    <div className={`flex items-center gap-2 ${className}`} role="group" aria-label={t("languages")}>
       {locales.map((item) => (
         <button
           key={item}

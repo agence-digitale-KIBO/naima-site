@@ -45,7 +45,8 @@ Copier `.env.example`. Ne jamais committer de secret.
 
 ## Ce qui attend Naima
 
-- Commune, CAP, coordonnées, horaires.
+- Commune, CAP, coordonnées.
+- Confirmation des horaires réels. Le fichier `src/config/opening-hours.ts` contient un horaire fictif (lundi et dimanche fermés, mardi–vendredi 09:00–12:30 et 14:00–19:00, samedi 09:00–17:00, fuseau `Europe/Rome`). `confirmed` reste `false` : le bandeau et la section affichent « bozza / brouillon / draft », et le schéma BeautySalon n'inclut pas `openingHours`. Passer `confirmed` à `true` seulement après validation de Naima. Les exceptions (congés, fériés, fermetures, horaires spéciaux) se posent dans `exceptions`, une date `YYYY-MM-DD` avec une liste d'intervalles vide pour une fermeture.
 - Partita IVA et forme juridique, pour valider les pages légales.
 - Logo, photos de l'institut, réalisations, avant/après avec accord, certifications si elle veut les montrer.
 - Avis réels, s'ils sont sourcés.
@@ -104,4 +105,4 @@ Aucun classement Google n'est garanti.
 
 ## Données structurées
 
-Le schéma BeautySalon n'inclut que le nom, la fondatrice, le téléphone, l'e-mail, la voie et la zone d'activité. Pas d'horaires, pas de note, pas de coordonnées tant qu'elles ne sont pas confirmées.
+Le schéma BeautySalon n'inclut que le nom, la fondatrice, le téléphone, l'e-mail, la voie et la zone d'activité. Les horaires structurés ne sont ajoutés que si `openingHours.confirmed` est `true`. Pas de note, pas de coordonnées tant qu'elles ne sont pas confirmées.

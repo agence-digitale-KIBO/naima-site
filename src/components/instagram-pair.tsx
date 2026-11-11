@@ -13,17 +13,17 @@ export function InstagramPair({
   ];
 
   return (
-    <div className="grid gap-8 sm:grid-cols-2">
+    <div className="grid min-w-0 grid-cols-1 gap-8 lg:grid-cols-2">
       {accounts.map((account) => (
         <a
           key={account.href}
           href={account.href}
           target="_blank"
           rel="noopener noreferrer"
-          className="group border-t border-sand pt-5"
+          className="group block min-w-0 border-t border-sand pt-5"
         >
           <span className="eyebrow text-muted">{account.label}</span>
-          <span className="mt-4 block font-serif text-3xl leading-none tracking-tight group-hover:text-taupe">
+          <span className="mt-4 block min-w-0 font-serif text-[clamp(1.35rem,3vw,2.15rem)] leading-tight break-words [overflow-wrap:anywhere] group-hover:text-taupe">
             {account.handle}
           </span>
         </a>

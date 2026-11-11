@@ -8,6 +8,7 @@ import { routing } from "@/i18n/routing";
 import { getSiteUrl, isIndexable } from "@/lib/site-url";
 import { CookieNotice } from "@/components/cookie-notice";
 import { MobileBookingBar } from "@/components/mobile-booking-bar";
+import { OpeningStatusBanner } from "@/components/opening-status-banner";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import "../globals.css";
@@ -79,8 +80,11 @@ export default async function LocaleLayout({
           <a className="skip-link" href="#content">
             {t("skip")}
           </a>
+          <div className="site-chrome">
+            <OpeningStatusBanner />
+            <SiteHeader />
+          </div>
           <CookieNotice />
-          <SiteHeader />
           <main id="content">{children}</main>
           <SiteFooter locale={locale} />
           <MobileBookingBar />
